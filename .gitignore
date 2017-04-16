@@ -1,0 +1,15 @@
+# Jekyll
+_site
+*.yml
+
+# Temp files
+.~
+*~
+~*
+
+# OS X
+.DS_Store
+
+# Windows
+thumbs.db
+Thumbs.db
